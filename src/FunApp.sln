@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunApp.Web", "Web\FunApp.We
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4D875F94-A35D-4C76-BEF9-3DA6A83324C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunApp.Data", "Data\FunApp.Data\FunApp.Data.csproj", "{78C6F8D1-9B66-4609-AC74-028A768797DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunApp.Data", "Data\FunApp.Data\FunApp.Data.csproj", "{78C6F8D1-9B66-4609-AC74-028A768797DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunApp.Data.Models", "Data\FunApp.Data.Models\FunApp.Data.Models.csproj", "{CCF71C63-C6DC-44DB-9C1F-1051FDA2A7C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunApp.Data.Models", "Data\FunApp.Data.Models\FunApp.Data.Models.csproj", "{CCF71C63-C6DC-44DB-9C1F-1051FDA2A7C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{57A37D2A-154E-45A8-9131-DFC00D2FCFF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
